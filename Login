@@ -1,0 +1,8 @@
+
+
+
+nombre= input()
+Apellidos=input()
+Edad=()
+
+print("su nombre es {0} y sus apellidos son{1} y edad es {2}".format(nombre , apellido,  ))
